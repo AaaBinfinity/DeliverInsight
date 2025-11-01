@@ -130,7 +130,15 @@ __pypackages__/
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid
-
+.env/
+__pycache__/
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.environment*
+data/
 # SageMath parsed files
 *.sage.py
 
