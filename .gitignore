@@ -138,7 +138,7 @@ __pycache__/
 *.pyd
 .DS_Store
 .environment*
-data/
+#data/
 # SageMath parsed files
 *.sage.py
 
